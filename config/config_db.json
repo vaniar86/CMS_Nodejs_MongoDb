@@ -1,0 +1,8 @@
+{
+    "mongo":
+    {
+        "host": "localhost",
+        "db" : "cms_database"
+
+    }
+}
